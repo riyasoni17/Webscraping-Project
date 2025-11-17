@@ -3,9 +3,6 @@
 This repository contains a Python-based web scraping tool designed to extract product information (product names, image links, and product URLs) from e-commerce websites. The scraper is implemented in a Jupyter Notebook and outputs data in CSV and Excel formats.  
 It is ideal for data analysts, researchers, students, and anyone who needs automated product data collection.
 
----
-
-## Repository Description (350 characters)
 This project scrapes product data from e-commerce sites using Python, BeautifulSoup, and Requests. It extracts product names, images, and URLs across multiple pages and exports clean, structured results to CSV. Useful for automated data collection, analysis, and e-commerce research.
 
 ---
